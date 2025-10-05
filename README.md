@@ -11,5 +11,9 @@ Explore deep-learning approaches for failure prediction and maintenance scheduli
 ## Quickstart (placeholder)
 Python 3.10+. Planned stack: NumPy, Pandas, PyTorch and/or TensorFlow, scikit-learn.
 
+python -m pip install -r requirements.txt
+python src/quickstart.py
+
+
 ## License
 MIT
