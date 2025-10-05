@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "predictive-maintenance-planning"
+authors:
+  - family-names: Akbarijokar
+    given-names: Soroush
+version: 0.1.0
+date-released: 2025-10-04
