@@ -1,5 +1,10 @@
 # Predictive Maintenance Planning
 
+![Status](https://img.shields.io/badge/status-planning-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
+
 **Goal**
 Explore deep-learning approaches for failure prediction and maintenance scheduling; provide small, reproducible demos.
 
